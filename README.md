@@ -242,5 +242,29 @@ body {
 Ini adalah contoh kode lengkap dan penjelasan untuk tugas siswa dalam mengatur layout menggunakan Flexbox dan Grid di CSS serta penggunaan Figma dalam studi kasus portofolio Rasya Falqi Gani.
 
 ---
+**SEDIKIT QNA** 
+
+"Kalau kita bicara tentang komputer, menurut kamu, apa sih bagian yang paling penting dari sebuah komputer? Bisa ceritain?"
+"Kamu pernah dengar istilah 'hardware' dan 'software'? Apa yang terlintas di pikiran kamu tentang dua hal ini?"
+"Nah, kalau kamu lagi pakai komputer, apa langkah pertama yang kamu lakukan untuk menyalakannya? Ada nggak tips khusus supaya komputer nggak cepat rusak?"
+"Menurut kamu, kenapa sistem operasi itu penting banget buat komputer? Apa yang bakal terjadi kalau nggak ada OS?"
+"Boleh cerita, alat apa aja yang pernah kamu pakai untuk menginput data di komputer? Dan menurut kamu, apa output yang paling sering kamu lihat di komputer kamu?"
+"Kalau denger kata 'coding', apa sih yang terlintas di pikiran kamu? Apa menurut kamu coding itu sulit atau justru menyenangkan?"
+"Kamu pernah coba nulis kode? Nah, setelah kamu menulis kode, apa sih yang terjadi di balik layar komputer?"
+"Pernah dengar bahasa pemrograman kayak Python, Java, atau C++? Kalau iya, bahasa apa yang menurut kamu paling menarik, dan kenapa?"
+"Gimana menurut kamu komputer bisa paham apa yang kita tulis dalam kode dan akhirnya melakukan perintah itu?"
+"Saat kamu berhasil menyelesaikan satu proyek coding kecil, gimana rasanya? Apa yang paling kamu banggakan?"
+"Kalau kamu kasih input ke komputer, apa yang terjadi di dalamnya sampai akhirnya dia ngasih output? Bisa ceritain dengan versi kamu sendiri?"
+"Apa kamu tahu kenapa CPU sering disebut sebagai otaknya komputer? Menurut kamu, apa yang bikin CPU begitu penting?"
+"Bayangin data yang kita simpan di komputer, gimana ya caranya komputer bisa ngambil dan menyimpan data itu kapan pun kita mau?"
+"Kadang kita jalankan banyak program sekaligus di komputer, menurut kamu gimana caranya komputer bisa multitasking kayak gitu?"
+"Dari semua yang kamu pelajari tentang komputer dan coding, apa sih yang menurut kamu paling menarik atau seru?"
+"Apa tantangan terbesar yang kamu rasain waktu belajar tentang komputer? Gimana kamu menghadapi atau mengatasi hal itu?"
+"Kalau kamu diberi kesempatan untuk belajar lebih dalam tentang komputer atau coding, apa sih yang paling ingin kamu eksplor?"
+"Waktu berinteraksi dengan teknologi, apakah kamu merasa nyaman atau malah kadang bingung? Kenapa bisa begitu?"
+"Menurut kamu, apa langkah-langkah yang bisa kamu ambil untuk lebih paham lagi soal komputer? Ada hal yang ingin kamu lakukan lebih baik?"
+ORANG PINTAR ADALAH ORANG YANG PENASARAN - DENGAN MEMNACINGNYA MENGGUNAKAN PERTANYAAN, MENYELIPKAN OBROLAN PERTANYAAN DISAAT ADA WAKTU KOSONG ATAU AKWARD. MEMBUKA PEMIKIRAN PENASARAN DALAM DUNIA IT - MEMBUKA CAKRAWALA DI BIDANG IT MERUPAKAN SALAH SATU HAL YANG PENTING KARENA DUNIA IT MEMILIKI LONG TERM DIMANA SELALU BERKEMBANG DI SETIAP MASA - LEARN TILL WE DIE NEVER STOP AND NEVER SURRENDER
+
+---
 
 Semoga materi ini bisa membantu dalam mengajar!
