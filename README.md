@@ -239,8 +239,6 @@ body {
 
 ---
 
-Ini adalah contoh kode lengkap dan penjelasan untuk tugas siswa dalam mengatur layout menggunakan Flexbox dan Grid di CSS serta penggunaan Figma dalam studi kasus portofolio Rasya Falqi Gani.
-
 ---
 **SEDIKIT QNA** 
 
