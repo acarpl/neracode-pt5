@@ -78,6 +78,169 @@ Di Figma, Rasya dapat mendesain layout portofolio seperti ini:
 2. **Grid Task**: Buat galeri proyek Rasya menggunakan grid dengan tiga kolom.
 3. **Figma Task**: Desain layout halaman utama portofolio Rasya di Figma dengan auto layout.
 
+Berikut adalah kode lengkap dan penjelasan untuk tugas siswa mengenai Flexbox, Grid, dan penggunaan Figma dengan HTML dan CSS:
+
+---
+
+### **Tugas Flexbox: Membuat Header Portofolio**
+
+#### **HTML**:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Rasya Falqi Gani</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+            <h1>Rasya Falqi Gani</h1>
+        </div>
+        <nav class="nav">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="contact-btn">
+            <a href="#contact" class="btn">Kontak</a>
+        </div>
+    </header>
+</body>
+</html>
+```
+
+#### **CSS**:
+```css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+.logo h1 {
+    font-size: 24px;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav ul li {
+    margin-left: 20px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.contact-btn .btn {
+    padding: 10px 20px;
+    background-color: #ff6347;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+```
+
+#### **Penjelasan**:
+- **HTML Structure**: Terdapat tiga bagian dalam header: logo, navigasi, dan tombol kontak. Elemen-elemen ini akan diatur dengan menggunakan Flexbox.
+- **Flexbox**: Pada elemen `.header`, properti `display: flex` digunakan untuk membuat elemen di dalamnya fleksibel, `justify-content: space-between` mengatur agar logo, navigasi, dan tombol kontak terletak di posisi yang berjauhan secara horizontal, sedangkan `align-items: center` mengatur semua elemen agar berada di tengah secara vertikal.
+  
+---
+
+### **Tugas Grid: Membuat Galeri Portofolio**
+
+#### **HTML**:
+```html
+<section class="portfolio">
+    <h2>My Projects</h2>
+    <div class="gallery">
+        <div class="project">Project 1</div>
+        <div class="project">Project 2</div>
+        <div class="project">Project 3</div>
+        <div class="project">Project 4</div>
+        <div class="project">Project 5</div>
+        <div class="project">Project 6</div>
+    </div>
+</section>
+```
+
+#### **CSS**:
+```css
+.portfolio {
+    padding: 50px;
+    text-align: center;
+}
+
+.portfolio h2 {
+    margin-bottom: 20px;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.project {
+    padding: 40px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+```
+
+#### **Penjelasan**:
+- **HTML Structure**: Galeri ini terdiri dari beberapa item proyek yang diatur dalam elemen `<div>` dengan class `.project`.
+- **CSS Grid**: Elemen `.gallery` menggunakan `display: grid` untuk mengaktifkan tata letak grid. Properti `grid-template-columns: repeat(3, 1fr)` membuat tiga kolom dengan ukuran yang sama, sedangkan `grid-gap: 20px` memberikan jarak antar kolom dan baris.
+  
+---
+
+### **Tugas Figma: Desain Layout Halaman Utama**
+
+#### **Langkah-Langkah di Figma**:
+1. **Membuat Frame**:
+   - Buat frame baru untuk halaman utama dengan ukuran 1440x1024 px.
+   - Bagian frame ini akan terdiri dari header, section portfolio, dan footer.
+
+2. **Membuat Header**:
+   - Tambahkan logo di sebelah kiri dan gunakan fitur **Auto Layout** untuk menata navigasi di tengah dan tombol di sebelah kanan.
+   - Atur jarak antar elemen dengan menggunakan padding dan margin.
+
+3. **Membuat Komponen Galeri**:
+   - Buat elemen untuk tiap proyek di galeri menggunakan **Repeat Grid** atau **Auto Layout** agar setiap item berukuran sama dan teratur.
+   
+4. **Membuat Tombol Kontak**:
+   - Buat tombol di bagian header dan jadikan sebagai **Component**, sehingga bisa digunakan berulang di berbagai halaman.
+
+#### **Hasil Akhir**:
+- **Header** dengan layout yang rapi dan responsif.
+- **Galeri Proyek** dengan tampilan yang bersih dan terorganisir menggunakan grid.
+
+---
+
+Ini adalah contoh kode lengkap dan penjelasan untuk tugas siswa dalam mengatur layout menggunakan Flexbox dan Grid di CSS serta penggunaan Figma dalam studi kasus portofolio Rasya Falqi Gani.
+
 ---
 
 Semoga materi ini bisa membantu dalam mengajar!
