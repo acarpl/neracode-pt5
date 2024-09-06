@@ -267,4 +267,4 @@ ORANG PINTAR ADALAH ORANG YANG PENASARAN - DENGAN MEMNACINGNYA MENGGUNAKAN PERTA
 
 ---
 
-Semoga materi ini bisa membantu dalam mengajar!
+Semoga materi ini bisa membantu dalam belajar!
